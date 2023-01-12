@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta+Vaani:wght@700&family=Play:wght@700&display=swap');
+
 .GRID {  display: grid;
    grid-template-columns: 29% 49% 19%;
    grid-template-rows: auto auto auto;
@@ -13,6 +16,10 @@
      "BL BC BR";
  }
  
+ #LOGO {
+  font-family: 'Play', sans-serif;
+  size:40px;
+}
  .UL { grid-area: UL; 
    background-color: rgb(125, 224, 224);
 }
