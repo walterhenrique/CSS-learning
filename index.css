@@ -40,4 +40,11 @@
  .BR { grid-area: BR; 
    background-color: rgb(253, 124, 77);
 }
- 
+a :link {
+}
+a :visited {
+}
+a :hover {
+}
+a :active {
+}
