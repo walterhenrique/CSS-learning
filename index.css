@@ -18,7 +18,7 @@
  
  #LOGO {
   font-family: 'Play', sans-serif;
-  size:40px;
+  font-size: 40px;
 }
  .UL { grid-area: UL; 
    background-color: rgb(125, 224, 224);
