@@ -48,6 +48,8 @@
    background-color: rgb(253, 124, 77);
 }
 a :link {
+   decoration: none;
+   /*remover a linha acima (decoration none)*/
 }
 a :visited {
 }
